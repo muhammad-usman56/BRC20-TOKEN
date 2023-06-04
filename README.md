@@ -1,4 +1,4 @@
-# Todos App with Stacks
+# BRC20 with Stacks
 
 
 
